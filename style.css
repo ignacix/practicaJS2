@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div{
+    background-color: cornflowerblue;
+    border-radius: 50px;
+    border-color: transparent;
+
+}
+
+h2{
+    padding:0px 5px;
+}
